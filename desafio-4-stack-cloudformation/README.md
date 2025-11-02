@@ -50,7 +50,7 @@ Integração Direta: O template coordena o provisionamento da instância EC2 e a
 
 Os códigos precisaram ser alterados, já que o t3.micro não está disponível em Free Tier.
 
-![Alteração de parâmetro](alteraçao-codigo.png)
+![Alteração de parâmetro](alteracao-codigo.png)
 
 Após a alteração do parâmetro, recriei a stack e funcionou normalmente, conforme a imagem abaixo que comprova a criação da instância.
 

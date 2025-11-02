@@ -1,10 +1,10 @@
-# Implementando a Primeira Stack com AWS CloudFormation
+# Implementando a Primeira Stack com AWS CloudFormation e Implementando Infraestrutura Automatizada com AWS CloudFormation
 
 Bootcamp Santander Code Girls 2025
 
 ## Descrição do Repositório
 
-Este repositório reúne conteúdo e exemplos desenvolvidos durante o módulo “Implementando a Primeira Stack com AWS CloudFormation”. O objetivo é demonstrar o provisionamento de uma instância EC2 (Elastic Compute Cloud) com um servidor web Apache instalado e configurado, aplicando os princípios de Infraestrutura como Código (IaC).
+Este repositório reúne conteúdo e exemplos desenvolvidos durante o módulo “Implementando a Primeira Stack com AWS CloudFormation” e "Implementando Infraestrutura Automatizada com AWS CloudFormation". O objetivo é demonstrar o provisionamento de uma instância EC2 (Elastic Compute Cloud) com um servidor web Apache instalado e configurado, aplicando os princípios de Infraestrutura como Código (IaC).
 
 ## O que é AWS CloudFormation
 

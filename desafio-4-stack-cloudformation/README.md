@@ -48,7 +48,7 @@ Integração Direta: O template coordena o provisionamento da instância EC2 e a
 
 ![Erro na criação da Stack](erro-instancia.png)
 
-Os códigos precisaram ser alterados, já que o t3.micro não está disponível em Free Tier.
+Os códigos precisaram ser alterados, já que o t2.micro não está disponível em Free Tier. Optei por alterar pelo t3.micro.
 
 ![Alteração de parâmetro](alteracao-codigo.png)
 
